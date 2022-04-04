@@ -8,7 +8,7 @@
 
 ## Github Stats
 
-<span>
-   <img height="150vw" src="https://github-readme-stats.vercel.app/api?username=JodanGalas&count_private=true&show_icons=true&theme=dark&&include_all_commits=true"/>
-   <img height="150vw" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JodanGalas&hide=html,css,javascript&layout=compact&langs_count=8&theme=dark"/>
-</span>
+<a href="https://github.com/leonardomessias98">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JodanGalas&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JodanGalas&layout=compact&theme=radical" />
+</a>
