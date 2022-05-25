@@ -8,7 +8,7 @@
 
 ## Github Stats
 
-<a href="https://github.com/leonardomessias98">
+<a href="https://github.com/JodanGalas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JodanGalas&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JodanGalas&layout=compact&theme=radical" />
 </a>
